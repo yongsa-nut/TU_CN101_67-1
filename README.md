@@ -55,4 +55,4 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 27 November |                  |             |
 | 29 November |                  |             |
 
-* I'm out of town (conference or competition).
+\* I'm out of town (conference or competition).
