@@ -48,14 +48,14 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 6 September | Decision Structures Lab 2 | [Colab]    |  |  |
 | 11 September | [Repetition Structures](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_4_Repitition_Structures.ipynb)    |        |  |  |
 | 13 September | Repetition Strucutres Lab  | [Colab]  |  |  |
-| 18 September | Repetition and List        |          |  |  |
+| 18 September | Repetition and List 1      |          |  |  |
 | 20 September | Repetition and List Lab    | [Colab]  |  |  |
 | 25 September | Midterm Prep 1         | [Colab]  |  |  |
 | 27 September | Midterm Prep 2         | [Colab]  |  |  |
 | 2 October | Midterm Week     |             |   |   |
 | 4 October | Midterm Week     |             |   |   |
 | 9 October* |  Midterm Discussion |         |   |   |
-| 11 October* | List           |             |   |   |
+| 11 October* | List 2          |             |   |   |
 | 16 October* | List Lab       |  [Colab]    |   |   |
 | 18 October* | Function 1      |            |   |   |
 | 23 October** | Function Lab 1   |  [Colab]   |   |   |
