@@ -18,6 +18,19 @@ Office hours: Friday 9:45 - 12:00, 13:00 - 15:00. ห้องประชุม
 ## Course overview 
 Basic concepts of computer systems, electronic data processing and concepts, system and application software, algorithms, flowcharts, data representation, program design and development methodology, problem solving using high-level language programming. 
 
+## Point Distribution
+
+- Midterm 35%
+- Final 45%
+- Exercises 20%:
+  - Lab - 1% each. 12 Total = 12%.
+  - Midterm/Final Prep - 2% each. 4 Total = 8%.
+
+## Late Policy:
+- Within Class (+10 min at most): Full point
+- Upto 2 days late: 50%
+- After 2 days: 0%.
+
 ## Tentative Schedule
 
 |   Date  |  Topic  |  Lab  |  Video |
@@ -51,7 +64,7 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 13 November | Dictionary      |             | |
 | 15 November | Dictionary Lab  |  [Colab]    | |
 | 20 November | Extra           |             | |
-| 22 November | Recap           |  [Colab]    | |
+| 22 November | Recap           |             | |
 | 27 November | Final Prep 1     | [Colab]     | |
 | 29 November | Final Prep 2     | [Colab]     | |
 
