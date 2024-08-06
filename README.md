@@ -38,21 +38,21 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 27 September | Midterm Prep 2         | [Colab]  |
 | 2 October | Midterm Week     |             |
 | 4 October | Midterm Week     |             |
-| 9 October* |                  |             |
-| 11 October* |                  |             |
-| 16 October* |                  |             |
-| 18 October* |                  |             |
-| 23 October |                  |             |
-| 25 October |                  |             |
-| 30 October |                  |             |
-| 1 November |                  |             |
-| 6 November |                  |             |
-| 8 November |                  |             |
-| 13 November |                  |             |
-| 15 November |                  |             |
-| 20 November |                  |             |
-| 22 November |                  |             |
-| 27 November |                  |             |
-| 29 November |                  |             |
+| 9 October* |  Midterm Discussion |         |
+| 11 October* | List           |             |
+| 16 October* | List Lab       |  [Colab]    |
+| 18 October* | Function 1      |            |
+| 23 October | Function Lab 1   |  [Colab]   |
+| 25 October | Function 2       |            |
+| 30 October | Function Lab 2   |             |
+| 1 November | String           |             |
+| 6 November | String Lab 1     |  [Colab]    |
+| 8 November | String Lab 2     |  [Colab]    |
+| 13 November | Dictionary      |             |
+| 15 November | Dictionary Lab  |  [Colab]    |
+| 20 November | Extra 1         |             |
+| 22 November | Extra 2         |             |
+| 27 November | Final Prep 1     | [Colab]     |
+| 29 November | Final Prep 2     | [Colab]     |
 
 \* I'm out of town (conference or competition).
