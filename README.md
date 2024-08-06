@@ -4,7 +4,7 @@
 
 Name: Nutchanon Yongsatianchot (Nut)
 
-ชื่อ: ณัฐชนน ยงเสถียรโชติ (นัด)
+ชื่อ: ณัฐชนน ยงเสถียรโชติ (นัท)
 
 email: ynutchan@engr.tu.ac.th
 
