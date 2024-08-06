@@ -50,7 +50,7 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 8 November | String Lab 2     |  [Colab]    |
 | 13 November | Dictionary      |             |
 | 15 November | Dictionary Lab  |  [Colab]    |
-| 20 November | Extra 1         |             |
+| 20 November | Extra           |             |
 | 22 November | Recap           |  [Colab]    |
 | 27 November | Final Prep 1     | [Colab]     |
 | 29 November | Final Prep 2     | [Colab]     |
