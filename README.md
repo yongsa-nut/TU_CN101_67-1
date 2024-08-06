@@ -39,7 +39,7 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 |   Date  |  Topic  |  Lab  |  Solution | Video |
 | ------- | ------- |  --------  | ----- | -------- |
 | 14 August   | [Introduction](https://docs.google.com/presentation/d/1sIAfe80t6zPb-sNDubTu1CVNVD18OFfe98GSjHUtFLQ/edit?usp=sharing)             |             |  |  |
-| 16 August   | Input/Output 1           |             |  |  |
+| 16 August   | [Input/Output 1](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_2_Input_Processing_and_Output.ipynb)    |     |  |  |
 | 21 August   | Input/Output Lab 1       |  [Colab]    |  |  |
 | 23 August   | Input/Output Lab 2          |   [Colab]          |  |  |
 | 28 August   | Decision Structures  1   |    |  |  |
