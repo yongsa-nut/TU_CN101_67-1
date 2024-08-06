@@ -44,7 +44,7 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 18 October* | Function 1      |            |
 | 23 October | Function Lab 1   |  [Colab]   |
 | 25 October | Function 2       |            |
-| 30 October | Function Lab 2   |             |
+| 30 October | Function Lab 2   |  [Colab]   |
 | 1 November | String           |             |
 | 6 November | String Lab 1     |  [Colab]    |
 | 8 November | String Lab 2     |  [Colab]    |
