@@ -28,7 +28,7 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 
 ## Late Policy:
 - Within Class (+10 min at most): Full point
-- Upto 2 days late: 50%
+- 2 days late: 50%
 - After 2 days: 0%.
 
 ## Tentative Schedule
