@@ -58,7 +58,7 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 11 October* | List           |             |   |   |
 | 16 October* | List Lab       |  [Colab]    |   |   |
 | 18 October* | Function 1      |            |   |   |
-| 23 October | Function Lab 1   |  [Colab]   |   |   |
+| 23 October** | Function Lab 1   |  [Colab]   |   |   |
 | 25 October | Function 2       |            |   |   |
 | 30 October | Function Lab 2   |  [Colab]   |   |   |
 | 1 November | String           |             |   |   |
@@ -72,3 +72,4 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 29 November | Final Prep 2     | [Colab]     |   |   |
 
 \* I'm out of town (conference or competition).
+\** Holiday
