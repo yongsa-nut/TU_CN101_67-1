@@ -41,10 +41,10 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 14 August   | [Introduction](https://docs.google.com/presentation/d/1sIAfe80t6zPb-sNDubTu1CVNVD18OFfe98GSjHUtFLQ/edit?usp=sharing)             |             |  |  |
 | 16 August   | Input/Output 1           |             |  |  |
 | 21 August   | Input/Output Lab 1       |  [Colab]    |  |  |
-| 23 August   | Input/Output 2           |             |  |  |
-| 28 August   | Input/Output Lab 2       |  [Colab]    |  |  |
-| 30 August   | Decision Structures      |             |  |  |
-| 4 September | Decision Structures Lab 1 | [Colab]    |  |  |
+| 23 August   | Input/Output Lab 2          |   [Colab]          |  |  |
+| 28 August   | Decision Structures  1   |    |  |  |
+| 30 August   | Decision Structures Lab 1     | [Colab]  |  |  |
+| 4 September | Decision Structures 2                  |  |  |  |
 | 6 September | Decision Structures Lab 2 | [Colab]    |  |  |
 | 11 September | Repetition Structures      |          |  |  |
 | 13 September | Repetition Strucutres Lab  | [Colab]  |  |  |
