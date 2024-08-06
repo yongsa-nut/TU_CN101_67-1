@@ -31,6 +31,9 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 - 2 days late: 50%
 - After 2 days: 0%.
 
+## The use of AI Policy:
+- You are free to use, but **if I catch it, you will get 0 on that exercise**. 
+
 ## Tentative Schedule
 
 |   Date  |  Topic  |  Lab  |  Solution | Video |
