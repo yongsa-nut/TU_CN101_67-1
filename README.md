@@ -22,20 +22,20 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 
 |   Date  |  Topic  |  Lab  |
 | ------- | ------- |  --------  |
-| 14 August   | Introduction       |             |
-| 16 August   | Input/Output 1     |  [Colab]    |
-| 21 August   | Input/Output Lab 1 |             |
-| 23 August   | Input/Output 2     |  [Colab]    |
-| 28 August   | Input/Output Lab 2 |             |
-| 30 August   |                    |             |
-| 4 September |                    |             |
-| 6 September |                    |             |
-| 11 September |                   |             |
-| 13 September |                   |             |
-| 18 September |                   |             |
-| 20 September |                   |             |
-| 25 September |                   |             |
-| 27 September |                   |             |
+| 14 August   | Introduction             |             |
+| 16 August   | Input/Output 1           |  [Colab]    |
+| 21 August   | Input/Output Lab 1       |             |
+| 23 August   | Input/Output 2           |  [Colab]    |
+| 28 August   | Input/Output Lab 2       |             |
+| 30 August   | Decision Structures      |             |
+| 4 September | Decision Structures Lab 1 | [Colab]    |
+| 6 September | Decision Structures Lab 2 | [Colab]    |
+| 11 September | Repetition Structures      |          |
+| 13 September | Repetition Strucutres Lab  | [Colab]  |
+| 18 September | Repetition and List        |          |
+| 20 September | Repetition and List Lab    | [Colab]  |
+| 25 September | Midterm Prep 1         | [Colab]  |
+| 27 September | Midterm Prep 2         | [Colab]  |
 | 2 October | Midterm Week     |             |
 | 4 October | Midterm Week     |             |
 | 9 October* |                  |             |
