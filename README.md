@@ -61,7 +61,7 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 23 October** | Function Lab 1   |  [Colab]   |   |   |
 | 25 October | [Function 2](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_Function.ipynb)       |            |   |   |
 | 30 October | Function Lab 2   |  [Colab]   |   |   |
-| 1 November | String           |             |   |   |
+| 1 November | [String](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_7_Strings.ipynb)           |             |   |   |
 | 6 November | String Lab 1     |  [Colab]    |   |   |
 | 8 November | String Lab 2     |  [Colab]    |   |   |
 | 13 November | Dictionary      |             |   |   |
