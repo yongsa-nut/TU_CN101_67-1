@@ -57,9 +57,9 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 9 October* |  Midterm Discussion |         |   |   |
 | 11 October* | [List 2](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_List_and_Tuple.ipynb)    |             |   |   |
 | 16 October* | List Lab       |  [Colab]    |   |   |
-| 18 October* | Function 1      |            |   |   |
+| 18 October* | [Function 1](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_Function.ipynb)      |            |   |   |
 | 23 October** | Function Lab 1   |  [Colab]   |   |   |
-| 25 October | Function 2       |            |   |   |
+| 25 October | [Function 2](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_Function.ipynb)       |            |   |   |
 | 30 October | Function Lab 2   |  [Colab]   |   |   |
 | 1 November | String           |             |   |   |
 | 6 November | String Lab 1     |  [Colab]    |   |   |
