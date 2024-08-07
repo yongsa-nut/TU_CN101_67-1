@@ -45,7 +45,7 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 28 August   | [Decision Structures 1](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_3_Decision_Structures_and_Boolean_Logic.ipynb) |    |  |  |
 | 30 August   | Decision Structures Lab 1     | [Colab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Decision_Structure_Lab1.ipynb)  |  |  |
 | 4 September | [Decision Structures 2](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_3_Decision_Structures_and_Boolean_Logic.ipynb)  |  |  |  |
-| 6 September | Decision Structures Lab 2 | [Colab]    |  |  |
+| 6 September | Decision Structures Lab 2 | [Colab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Decision_Structures_Lab_2.ipynb)    |  |  |
 | 11 September | [Repetition Structures](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_4_Repitition_Structures.ipynb)    |        |  |  |
 | 13 September | Repetition Strucutres Lab  | [Colab]  |  |  |
 | 18 September | [Repetition and List 1](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_List_and_Tuple.ipynb)      |          |  |  |
