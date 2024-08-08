@@ -13,7 +13,7 @@ Office hours: Friday 9:45 - 12:00, 13:00 - 15:00. ห้องประชุม
 ## Course Logistics
 
 - **Time**: Every Wednesday and Friday, 8:00 - 9:25.
-- **Room**: TBA
+- **Room**: ENG 318
 
 ## Course overview 
 Basic concepts of computer systems, electronic data processing and concepts, system and application software, algorithms, flowcharts, data representation, program design and development methodology, problem solving using high-level language programming. 
