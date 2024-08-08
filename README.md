@@ -50,7 +50,7 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 13 September | [Repetition and List 1](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_List_and_Tuple.ipynb)  |    |  |  |
 | 18 September | Repetition and List Lab  | [Colab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Repetition_Structure_and_List.ipynb)         |  |  |
 | 20 September | Recap and Problem Solvings |          |  |  |
-| 25 September | Midterm Prep 1         | [Colab]  |  |  |
+| 25 September | Midterm Prep 1         | [Colab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Midterm_Preparation_1.ipynb)  |  |  |
 | 27 September | Midterm Prep 2         | [Colab]  |  |  |
 | 2 October | Midterm Week     |             |   |   |
 | 4 October | Midterm Week     |             |   |   |
