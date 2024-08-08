@@ -24,7 +24,7 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 - Final 45%
 - Exercises 20%:
   - Lab - 1% each. 12 Total = 12%.
-  - Midterm/Final Prep - 2% each. 4 Total = 8%.
+  - Midterm/Final Prep (on paper) - 2% each. 4 Total = 8%.
 
 ## Late Policy:
 - Within Class (+10 min at most): Full point
