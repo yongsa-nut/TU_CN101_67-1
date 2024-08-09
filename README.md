@@ -64,7 +64,7 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 1 November | [String](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_7_Strings.ipynb)           |             |   |   |
 | 6 November | String Lab 1     |  [Colab]    |   |   |
 | 8 November | String Lab 2     |  [Colab]    |   |   |
-| 13 November | Dictionary      |             |   |   |
+| 13 November | [Dictionary](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Dictionary.ipynb)     |             |   |   |
 | 15 November | Dictionary Lab  |  [Colab]    |   |   |
 | 20 November | Extra           |             |   |   |
 | 22 November | Recap           |             |   |   |
