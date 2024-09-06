@@ -71,6 +71,7 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 27 November | Final Prep 1     | [Colab]     |   |   |
 | 29 November | Final Prep 2     | [Colab]     |   |   |
 | 4 December  | Final (9-12)     |             |  |   |
+
 \* I'm out of town (conference or competition).
 \** Holiday
 
