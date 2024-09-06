@@ -53,7 +53,7 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 25 September | Midterm Prep 1         | [Colab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Midterm_Preparation_1.ipynb)  |  |  |
 | 27 September | Midterm Prep 2         | [Colab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Midterm_Preparation_2.ipynb)  |  |  |
 | 2 October | Midterm Week     |             |   |   |
-| 4 October | Midterm Week     |             |   |   |
+| 4 October | **Midterm Day** (9:00 - 11:00)    |      |   |   |
 | 9 October* |  Midterm Discussion |         |   |   |
 | 11 October* | [List 2](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_List_and_Tuple.ipynb)    |             |   |   |
 | 16 October | List Lab       |  [Colab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/List_Lab.ipynb)    |   |   |
@@ -70,7 +70,7 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 22 November | Recap           |             |   |   |
 | 27 November | Final Prep 1     | [Colab]     |   |   |
 | 29 November | Final Prep 2     | [Colab]     |   |   |
-
+| 4 December  | Final (9-12)     |             |  |   |
 \* I'm out of town (conference or competition).
 \** Holiday
 
