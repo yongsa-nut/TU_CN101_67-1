@@ -55,7 +55,7 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 2 October | Midterm Week     |             |   |   |
 | 4 October | **Midterm Day** (9:00 - 11:00)    |      |   |   |
 | 9 October* |  Midterm Discussion |         |   |   |
-| 11 October* | [List 2](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_List_and_Tuple.ipynb)    |             |   |   |
+| 11 October | [List 2](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_List_and_Tuple.ipynb)    |             |   |   |
 | 16 October | List Lab       |  [Colab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/List_Lab.ipynb)    |   |   |
 | 18 October | [Function 1](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_Function.ipynb)      |            |   |   |
 | 23 October** | Function Lab 1   |  [Colab]   |   |   |
