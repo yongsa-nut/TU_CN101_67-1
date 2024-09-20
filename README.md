@@ -50,8 +50,8 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 13 September | [Repetition and List 1](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_List_and_Tuple.ipynb)  |    |  | [Video](https://tuipied-my.sharepoint.com/:v:/g/personal/nutchany_tu_ac_th/EcMpSXowhNtCgv_pHg5cSGQBX_HpzBQ52SXGrqfGSYljNA?e=pdV07i&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  |
 | 18 September | Repetition and List Lab  | [Colab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Repetition_Structure_and_List_Lab_v2.ipynb)    |  |  |
 | 20 September | Recap and Problem Solvings |          |  |  |
-| 25 September | Midterm Prep 1 (On Paper)        |   |  |  |
-| 27 September | Midterm Prep 2 (On Paper)        |   |  |  |
+| 25 September | Midterm Prep 1 (On Paper)   |   |  |  |
+| 27 September | Midterm Prep 2 (On Paper)   |   |  |  |
 | 2 October | Midterm Week     |             |   |   |
 | 4 October | **Midterm Day** (9:00 - 11:00)    |      |   |   |
 | 9 October* |  Midterm Discussion |         |   |   |
