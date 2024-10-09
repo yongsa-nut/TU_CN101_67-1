@@ -54,17 +54,17 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 27 September | Midterm Prep 2 (On Paper)   |   |  |  |
 | 2 October | Midterm Week     |             |   |   |
 | 4 October | **Midterm Day** (9:00 - 11:00)    |      |   |   |
-| 9 October* |  Midterm Discussion |         |   |   |
+| 9 October |  Midterm Discussion |         |   |   |
 | 11 October | [List 2](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_List_and_Tuple.ipynb)    |             |   |   |
 | 16 October | List Lab       |  [Colab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/List_Lab.ipynb)    |   |   |
 | 18 October | [Function 1](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_Function.ipynb)      |            |   |   |
 | 23 October** | [Function 2](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_Function.ipynb)       |            |   |   |
-| 25 October* | Function Lab 1   |  [Colab]   |   |   |
+| 25 October | Function Lab 1   |  [Colab]   |   |   |
 | 30 October | Function Lab 2   |  [Colab]   |   |   |
 | 1 November | [String](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_7_Strings.ipynb)           |             |   |   |
 | 6 November | String Lab 1     |  [Colab]    |   |   |
 | 8 November | String Lab 2     |  [Colab]    |   |   |
-| 13 November | [Dictionary](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Dictionary.ipynb)     |             |   |   |
+| 13 November* | [Dictionary](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Dictionary.ipynb)     |             |   |   |
 | 15 November | Dictionary Lab  |  [Colab]    |   |   |
 | 20 November | Extra           |             |   |   |
 | 22 November | Recap           |             |   |   |
