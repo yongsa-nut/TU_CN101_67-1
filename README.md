@@ -63,10 +63,10 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 30 October | Function Lab 2   |  [Colab]   |   |   |
 | 1 November | [String](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_7_Strings.ipynb)           |             |   |   |
 | 6 November | String Lab 1     |  [Colab]    |   |   |
-| 8 November | String Lab 2     |  [Colab]    |   |   |
-| 13 November* | [Dictionary](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Dictionary.ipynb)     |             |   |   |
-| 15 November | Dictionary Lab  |  [Colab]    |   |   |
-| 20 November | Extra           |             |   |   |
+| 8 November | String-List Lab     |  [Colab]    |   |   |
+| 13 November* | Extra   |             |   |   |
+| 15 November | [Dictionary](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Dictionary.ipynb)  |      |   |   |
+| 20 November | Dictionary Lab          | [Colab]            |   |   |
 | 22 November | Recap           |             |   |   |
 | 27 November | Final Prep 1     | [Colab]     |   |   |
 | 29 November | Final Prep 2     | [Colab]     |   |   |
