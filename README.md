@@ -60,14 +60,14 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 18 October | [Function 1](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_Function.ipynb)      |            |   |    |
 | 23 October** | [Function 2](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_Function.ipynb)       |            |   |   |
 | 25 October | Function Lab 1   |  [Colab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Function_Lab1.ipynb)   |   | [Video](https://tuipied-my.sharepoint.com/:v:/g/personal/nutchany_tu_ac_th/EQKj_IpZESZKk1-JtDMBujsBoX0-g0pqnQKE2AdsLunV7w?e=g4wjD8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  |
-| 30 October | Function Lab 2   |  [Colab]   |   |   |
+| 30 October | Function Lab 2   |  [Colab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Function_Lab_2.ipynb)   |   |   |
 | 1 November | [String](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_7_Strings.ipynb)           |             |   |   |
 | 6 November | String Lab 1     |  [Colab]    |   |   |
-| 8 November | String-List Lab     |  [Colab]    |   |   |
-| 13 November* | Extra   |             |   |   |
-| 15 November | [Dictionary](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Dictionary.ipynb)  |      |   |   |
-| 20 November | Dictionary Lab          | [Colab]            |   |   |
-| 22 November | Recap           |             |   |   |
+| 8 November | Extra    |     |   |   |
+| 13 November* | [Dictionary](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Dictionary.ipynb)    |             |   |   |
+| 15 November | Dictionary Lab |      |   |   |
+| 20 November | Recap      |            |   |   |
+| 22 November | Recap Lab  | [Colab]     |   |   |
 | 27 November | Final Prep 1     | [Colab]     |   |   |
 | 29 November | Final Prep 2     | [Colab]     |   |   |
 | 4 December  | Final (9-12)     |             |  |   |
