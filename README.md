@@ -61,7 +61,7 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 23 October** | [Function 2](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_5_Function.ipynb)       |            |   | [Video](https://tuipied-my.sharepoint.com/:v:/g/personal/nutchany_tu_ac_th/EeIMU40GduhOtzlUZktB9LIBUdG2xog4YiLXrdITktd1sQ?e=KXVrM2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)    |
 | 25 October | Function Lab 1   |  [Colab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Function_Lab1.ipynb)   |   |  |
 | 30 October | Function Lab 2   |  [Colab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Function_Lab_2.ipynb)   |   |   |
-| 1 November | [String](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_7_Strings.ipynb)           |             |   |   |
+| 1 November | [String](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Chapter_7_Strings.ipynb)           |             |   | [Video](https://tuipied-my.sharepoint.com/:v:/g/personal/nutchany_tu_ac_th/ERkj_dUNrSNIpzLxVwlyf-oBc8bZgpk6zTVxucEibB8BwQ?e=ds2Scl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  |
 | 6 November | String Lab 1     |  [Colab]    |   |   |
 | 8 November** | Extra    |     |   |   |
 | 13 November* | [Dictionary](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Dictionary.ipynb)    |             |   |   |
