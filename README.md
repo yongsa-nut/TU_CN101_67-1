@@ -65,7 +65,7 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 6 November | String Lab 1     |  [Colab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/String_Lab_1.ipynb)    |   |   |
 | 8 November** | Extra, [Colab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Extra.ipynb)    |     |   | [Video](https://tuipied-my.sharepoint.com/:v:/g/personal/nutchany_tu_ac_th/EbU3jNGuLjRKqvZBzVHPaxwBfUswj9XV0cbkS23Szljdew?e=eWEwCv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  |
 | 13 November* | [Dictionary](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Dictionary.ipynb)    |             |   |   |
-| 15 November | Dictionary Lab |  [Colab]    |   |   |
+| 15 November | Dictionary Lab |  [Colab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Dictionary_Lab.ipynb)    |   |   |
 | 20 November | Recap      |            |   |   |
 | 22 November | Recap Lab  | [Colab]     |   |   |
 | 27 November | Final Prep 1     | [Colab]     |   |   |
