@@ -67,7 +67,7 @@ Basic concepts of computer systems, electronic data processing and concepts, sys
 | 13 November* | [Dictionary](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Dictionary.ipynb)    |             |   | [Video](https://tuipied.sharepoint.com/sites/Section_D3AB9CAE-FB23-478C-A2BC-FEC08C47E1FC/Shared%20Documents/General/Recordings/CN101%20-%2011_13_2024-20241113_080011-Meeting%20Recording.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)  |
 | 15 November | Dictionary Lab |  [Colab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Dictionary_Lab.ipynb)    |   |   |
 | 20 November | Recap      |            |   |   |
-| 22 November | Recap Lab  | [Colab]     |   |   |
+| 22 November | Recap Lab  | [Colab](https://colab.research.google.com/github/yongsa-nut/TU_CN101_67-1/blob/main/Recap_Lab.ipynb)     |   |   |
 | 27 November | Final Prep 1     |     |   |   |
 | 29 November | Final Prep 2     |      |   |   |
 | 4 December  | Final (9-12)     |             |  |   |
